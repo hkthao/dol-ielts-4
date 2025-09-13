@@ -83,8 +83,6 @@
 
 ### **Học Từ Vựng Theo Tư Duy Tuyến Tính (Lesson 8)**
 
-**Mục tiêu:** Nhóm từ vựng của bài theo một "model" (mô hình) logic để dễ nhớ và áp dụng.
-
 **Model áp dụng:** **Liệt kê Lợi ích (Advantages)**
 
 **Nhóm 1: Lợi ích cho Phát triển Cá nhân (Personal Development)**
@@ -121,3 +119,15 @@
 
 *   `internationalization`: quốc tế hóa.
 *   `educational internationalization`: quốc tế hóa giáo dục.
+
+---
+
+#### **Ghép nối thành chuỗi (Áp dụng cho Speaking)**
+
+**Đoạn 1: Lợi ích cá nhân**
+
+"From my perspective, studying abroad offers many benefits. Firstly, you can **broaden your understanding of the world** and learn **different ways of looking at things**. This helps develop a **global perspective**. Secondly, you can **enhance your language skills** and become more **fluent in English**. This is not only a **valuable addition to your skills** but will also **be useful in your future career**."
+
+**Đoạn 2: Yếu tố hỗ trợ**
+
+"The reason many students choose countries like Germany is because of the **ongoing support** they receive. These countries often have universities with a **good reputation** and offer **good quality degrees** that are **valued highly** worldwide. They **welcome foreign students**, sometimes allowing them to **study for free**. This process of **educational internationalization** makes it much easier for students to adapt."

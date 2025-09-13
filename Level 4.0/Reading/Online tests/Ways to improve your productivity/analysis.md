@@ -129,3 +129,21 @@
 *   `a messy workspace`: một không gian làm việc bừa bộn.
 *   `feeling overwhelmed or exhausted`: cảm thấy quá tải hoặc kiệt sức.
 *   `bad habits`: những thói quen xấu.
+
+---
+
+#### **Ghép nối thành chuỗi (Áp dụng cho Speaking)**
+
+**Mục đích:** Liên kết các cụm từ đã học thành các đoạn văn ngắn, logic để luyện nói.
+
+**Đoạn 1: Vấn đề cốt lõi & Giải pháp chung**
+
+"Many people struggle to **maximize productivity** because of common **bad habits**. Multitasking, for instance, often feels efficient but it actually **reduces productivity** and **hampers working memory**. To avoid **feeling overwhelmed or exhausted**, it's better to **learn to single-task**. A great way to start is to **make a not-to-do list** to identify and eliminate these unproductive habits."
+
+**Đoạn 2: Thói quen buổi sáng & Không gian làm việc**
+
+"To truly **reach high levels of performance**, you should **develop the lifelong habit of** starting your day strong. A good technique is to **eat the frog**, which means **completing your major tasks** first. Another simple but effective method is to **get organized**. A **messy workspace** **limits your focus**, so cleaning it up can significantly **improve your mental health**."
+
+**Đoạn 3: Tận dụng thời gian & Nghỉ ngơi**
+
+"Don't think of breaks as **a waste of time**. You should **take regular breaks** to **refresh and refuel your mind**; this is key to **maximize your efficiency**. You can also **take advantage of your commute**. Instead of aimless scrolling, use that time to plan your day. These small changes prevent you from **experiencing stress and exhaustion** and will definitely **boost your concentration**."
