@@ -9,15 +9,18 @@ Thư mục này chứa các tài liệu cho kỹ năng Đọc IELTS ở cấp đ
         - **`Online tests/`**: Chứa các bài đọc mẫu, được sắp xếp theo từng thư mục riêng.
             - **`The benefits of studying abroad/`**: Thư mục cho một bài đọc cụ thể.
                 - `reading_passage.md`: Nội dung gốc của bài đọc.
-                - `highlighted_reading_passage.md`: Bài đọc được bôi đậm các câu và cụm từ khóa quan trọng.
-                - `analysis.md`: Phân tích chi tiết bài đọc theo từng câu và từ vựng (cách tiếp cận cũ).
-                - `application_of_checklist.md`: Hướng dẫn áp dụng checklist đọc hiểu hiệu quả vào bài đọc này (cách tiếp cận mới, có hệ thống).
+                - `analysis.md`: **(File phân tích tất cả trong một)**. File này bao gồm:
+                    - Tóm tắt ý chính từng đoạn.
+                    - Phân tích chi tiết từng câu (đọc/lướt, lý do, chức năng, verb pattern).
+                    - Bôi đậm từ khóa chính trong từng câu.
+                    - Tóm tắt ngắn gọn sau mỗi đoạn phân tích.
+                    - Hệ thống từ vựng theo model LinearThinking kèm nghĩa tiếng Việt.
         - **`Summary/`**: Cung cấp các tài liệu tổng hợp, checklist và phương pháp luận.
-            - `checklist_doc_nhanh.md`: Checklist các bước đọc hiểu hiệu quả, áp dụng cho cả công việc và luyện thi.
-            - `tong_hop_on_tap.md`: Tóm tắt toàn diện 8 bài học trong khóa học LinearThinking cho kỹ năng Đọc.
-            - `cau_truc_cau_theo_chuc_nang.md`: **(Mới)** Tổng hợp các cấu trúc câu theo chức năng (bổ sung, tương phản, nguyên nhân-kết quả...) để dễ ôn tập.
-        - **`Screen shot/`**: Chứa các ảnh chụp màn hình liên quan đến tài liệu đọc.
+            - `checklist_doc_nhanh.md`: Checklist các bước đọc hiểu hiệu quả.
+            - `tong_hop_on_tap.md`: Tóm tắt 8 bài học trong khóa học LinearThinking.
+            - `cau_truc_cau_theo_chuc_nang.md`: Tổng hợp các cấu trúc câu theo chức năng.
+        - **`Screen shot/`**: Chứa các ảnh chụp màn hình liên quan.
 
 ## Phương pháp luận: LinearThinking
 
-Cốt lõi của những tài liệu này là phương pháp **LinearThinking**, nhấn mạnh vào việc hiểu cấu trúc của câu và đoạn văn thay vì dịch từng từ. Các tài liệu trong `Summary` sẽ giúp bạn nắm vững phương pháp này, và các ví dụ trong `Online tests` cho thấy cách áp dụng nó vào thực tế.
+Cốt lõi của những tài liệu này là phương pháp **LinearThinking**. Hãy sử dụng các tài liệu trong `Summary` để nắm vững phương pháp, và xem file `analysis.md` trong `Online tests` như một ví dụ thực hành hoàn chỉnh nhất.
