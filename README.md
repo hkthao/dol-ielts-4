@@ -6,19 +6,16 @@ Thư mục này chứa các tài liệu cho kỹ năng Đọc IELTS ở cấp đ
 
 - **`Level 4.0/`**: Chứa tất cả tài liệu cho cấp độ 4.0.
     - **`Reading/`**: Tập trung vào kỹ năng Đọc.
-        - **`Online tests/`**: Chứa các bài đọc mẫu, được sắp xếp theo từng thư mục riêng.
-            - **`The benefits of studying abroad/`**: Phân tích bài "Lợi ích của việc du học".
-            - **`Ways to improve your productivity/`**: Phân tích bài "Cách để tăng năng suất".
-            
-            *Trong mỗi thư mục bài đọc sẽ có:* 
-            - `reading_passage.md`: Nội dung gốc của bài đọc.
-            - `analysis.md`: **(File phân tích tất cả trong một)**. File này bao gồm mọi thứ bạn cần để học sâu về bài đọc.
+        - **`Online tests/`**: Chứa các bài đọc mẫu và file phân tích "tất cả trong một" cho từng bài.
+            - `The benefits of studying abroad/`
+            - `Ways to improve your productivity/`
 
-        - **`Summary/`**: Cung cấp các tài liệu tổng hợp, checklist và phương pháp luận.
-            - `checklist_doc_nhanh.md`: Checklist các bước đọc hiểu hiệu quả.
-            - `tong_hop_on_tap.md`: Tóm tắt 8 bài học trong khóa học LinearThinking.
-            - `cau_truc_cau_theo_chuc_nang.md`: Tổng hợp các cấu trúc câu theo chức năng.
+        - **`Summary/`**: Chứa các tài liệu lý thuyết cốt lõi của phương pháp.
+            - `tong_hop_on_tap.md`: **(Nền tảng Ngữ pháp)** Tóm tắt 8 bài học về các thành phần cấu trúc câu (S-V, mệnh đề, cụm từ...).
+            - `cau_truc_cau_theo_chuc_nang.md`: **(Tư duy Chiến lược)** Tổng hợp các cấu trúc câu theo chức năng (tương phản, nguyên nhân-kết quả...) và hướng dẫn mức độ ưu tiên khi đọc.
 
 ## Phương pháp luận: LinearThinking
 
-Cốt lõi của những tài liệu này là phương pháp **LinearThinking**. Hãy sử dụng các tài liệu trong `Summary` để nắm vững phương pháp, và xem các file `analysis.md` trong `Online tests` như những ví dụ thực hành hoàn chỉnh nhất.
+1.  **Học lý thuyết:** Dùng 2 file trong thư mục `Summary` để nắm vững các khái niệm nền tảng và tư duy chiến lược.
+2.  **Xem ví dụ:** Mở các file `analysis.md` trong thư mục `Online tests` để xem cách áp dụng lý thuyết vào thực tế.
+3.  **Thực hành:** Tự áp dụng phương pháp cho các bài đọc mới.

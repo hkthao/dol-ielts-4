@@ -1,64 +1,58 @@
-### Tổng Hợp Cấu Trúc Câu Theo Chức Năng
+### **Tổng Hợp Cấu Trúc Câu Theo Chức Năng**
 
-Đây là file tổng hợp các cấu trúc câu quan trọng, được nhóm theo chức năng và ý nghĩa sử dụng để bạn dễ dàng nhận diện và áp dụng vào việc đọc hiểu.
-
----
-
-### Nhóm 1: Cấu Trúc Bổ Sung & Làm Rõ Thông Tin
-
-Đây là các cấu trúc dùng để thêm chi tiết, làm rõ cho một đối tượng đã được nhắc đến.
-
-*   **1. Mệnh Đề Quan Hệ (Relative Clause)**
-    *   **Chức năng:** Bổ sung thông tin, mô tả rõ hơn cho danh từ đứng ngay trước nó.
-    *   **Pattern:** Noun + (`who, which, that`...) + S + V
-    *   **Cách đọc:** Tạm thời bỏ qua mệnh đề này để nắm ý chính của câu, sau đó quay lại đọc nếu cần chi tiết.
-    *   **Ví dụ:** "Russel Howe, a Scot **who is currently studying a Business degree**..., previously also studied in India."
-        *   => Ý chính: **Russel Howe** previously also **studied** in India.
-        *   => Phần bôi đậm chỉ làm rõ "Russel Howe là ai".
-
-*   **2. Cụm Danh Từ (Noun Phrase)**
-    *   **Chức năng:** Cung cấp một cụm thông tin đầy đủ trong vai trò của một chủ ngữ hoặc tân ngữ.
-    *   **Pattern:** (từ hạn định) + (tính từ) + **Danh từ chính**
-    *   **Cách đọc:** Tập trung vào **danh từ chính** ở cuối cụm để hiểu đối tượng chính là gì.
-    *   **Ví dụ:** "An unexpectedly **large number of students** from different universities **attended** the event."
-        *   => Ý chính: **students** **attended** the event.
+Đây là file tổng hợp các cấu trúc câu và cụm từ nối quan trọng, được nhóm theo chức năng để bạn dễ dàng nhận diện và áp dụng vào việc đọc hiểu cũng như Writing/Speaking.
 
 ---
 
-### Nhóm 2: Cấu Trúc Thể Hiện Sự Tương Phản / Chuyển Hướng
+### **Phần 1: Danh Sách Các Cấu Trúc Theo Chức Năng**
 
-Các cấu trúc này báo hiệu một sự thay đổi, một ý kiến trái ngược hoặc một sự chuyển hướng trong dòng suy nghĩ của tác giả.
+#### **Nhóm 1: Chức năng Liệt kê & Bổ sung thông tin**
 
-*   **Từ nối tương phản: `But`, `However`, `While`**
-    *   **Chức năng:** Vế sau sẽ mang ý nghĩa trái ngược hoặc quan trọng hơn vế trước.
-    *   **Cách đọc:** Hãy đặc biệt chú ý đến vế câu đi sau các từ này, vì nó thường chứa quan điểm chính của tác giả.
-    *   **Ví dụ 1:** "‘People often ask me why I needed to travel... **But** this is not something I needed to do, **but** something I really wanted to do.’"
-        *   => Ý nghĩa: Tác giả phủ định ý kiến "cần phải đi" và nhấn mạnh ý kiến "muốn đi".
-    *   **Ví dụ 2:** "**While** this part of the brain shrinks, another area can grow with chronic stress."
-        *   => Ý nghĩa: Nêu lên 2 tác động trái ngược nhau của stress lên não.
+*   **Bổ sung một ý tương đương:** `In addition`, `Furthermore`, `Moreover`, `Also`, `Not only... but also...`
+*   **Làm rõ, bổ nghĩa cho đối tượng:** Mệnh Đề Quan Hệ (`who, which...`)
+*   **Đưa ra ví dụ:** `For example`, `For instance`, `To illustrate`, `...such as...`
 
 ---
 
-### Nhóm 3: Cấu Trúc Thể Hiện Nguyên Nhân - Kết Quả
+#### **Nhóm 2: Chức năng Tương phản & Bác bỏ**
 
-*   **Mệnh đề V-ing chỉ kết quả**
-    *   **Chức năng:** Nêu kết quả của hành động ở mệnh đề chính.
-    *   **Pattern:** S + V + ..., **V-ing** + ...
-    *   **Cách đọc:** Vế V-ing trả lời cho câu hỏi "Hành động ở vế chính dẫn đến kết quả gì?".
-    *   **Ví dụ:** "Germany also makes an effort towards internationalization, **making it come out as a winner**."
-        *   => Nguyên nhân: Germany makes an effort...
-        *   => Kết quả: ...making it come out as a winner.
+*   **Tương phản:** `But`, `However`, `While`, `Although...`, `Despite...`, `In contrast`, `On the one hand...`
+*   **Bác bỏ quan điểm sai lầm:** `You might think X, but Y is true.`
 
 ---
 
-### Nhóm 4: Cấu Trúc "Đóng Gói" Ý Tưởng (Mệnh Đề Danh Từ)
+#### **Nhóm 3: Chức năng Nguyên nhân - Kết quả**
 
-*   **Mệnh Đề Danh Từ (Noun Clause)**
-    *   **Chức năng:** Biến cả một câu (S+V) thành một ý tưởng đơn lẻ, đóng vai trò như một danh từ.
-    *   **Cách đọc:** Coi cả mệnh đề này là một "khối" thông tin duy nhất đang làm chủ ngữ hoặc tân ngữ.
-    *   **Pattern 1 (Làm Chủ ngữ):** `[Whether/What + S + V]` + **V** + ...
-        *   **Ví dụ:** "`Whether we can go camping or not` **depends** on the weather."
-            *   => Cả cụm "việc chúng ta có đi cắm trại được hay không" là chủ ngữ của động từ "depends".
-    *   **Pattern 2 (Trong Verb Pattern):** S + **V** + `[what/how + S + V]`
-        *   **Ví dụ:** "I also **found out** `how much we all have in common`."
-            *   => Cả cụm "chúng ta có bao nhiêu điểm chung" là tân ngữ cho động từ "found out".
+*   **Diễn tả Nguyên nhân:** `Because`, `Since`, `As`, `Due to`, `Because of`, `This is because...`
+*   **Diễn tả Kết quả:** `Therefore`, `So`, `As a result`, `Consequently`, `...which leads to...`, Mệnh đề V-ing chỉ kết quả.
+
+---
+
+#### **Nhóm 4: Chức năng Đưa ra Lời khuyên / Mục đích**
+
+*   **Đưa ra Lời khuyên / Giải pháp:** `You should...`, `It is advisable to...`, `One solution is to...`, `Instead of doing A, do B`, `The best way to... is to...`
+*   **Chỉ Mục đích:** `to / in order to / so as to + V`, `so that + S + V`
+
+---
+
+#### **Nhóm 5: Chức năng Định nghĩa & Nhấn mạnh**
+
+*   **Định nghĩa:** `The X is Y`, `X refers to...`
+*   **Nhấn mạnh:** `In fact`, `Indeed`, `Notably`
+
+---
+
+### **Phần 2: Phân Cấp Ưu Tiên Đọc Hiểu**
+
+**Nguyên tắc chung:** Cấu trúc nào giúp **thay đổi hướng** hoặc **đúc kết vấn đề** thì quan trọng hơn cấu trúc chỉ **thêm thắt thông tin**.
+
+*   **Ưu tiên 1: ĐỌC KỸ**
+    *   **Nhóm 2 (Tương phản & Bác bỏ):** Vì chúng báo hiệu "cú bẻ lái", nơi chứa quan điểm thật sự.
+    *   **Nhóm 3 (Nguyên nhân - Kết quả):** Vì chúng là xương sống của lập luận, đặc biệt là các từ chỉ kết quả (`Therefore`, `So`...).
+
+*   **Ưu tiên 2: ĐỌC CHÚ Ý**
+    *   **Nhóm 4 (Lời khuyên / Giải pháp):** Vì đây thường là mục đích, phần đúc kết giá trị của bài viết.
+    *   **Nhóm 5 (Định nghĩa):** Vì nếu tác giả đã phải định nghĩa, thì đó là khái niệm trung tâm.
+
+*   **Ưu tiên 3: ĐỌC LƯỚT**
+    *   **Nhóm 1 (Liệt kê & Bổ sung):** Vì chúng thường chỉ minh họa hoặc thêm thắt cho một ý chính đã được nêu ra trước đó.
