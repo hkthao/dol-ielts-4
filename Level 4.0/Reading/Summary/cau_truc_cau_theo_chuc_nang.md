@@ -42,6 +42,55 @@
 
 ---
 
+#### **Nhóm 6: Chức năng So sánh & Đối chiếu**
+
+*   **So sánh hơn/kém:** `X is less/more + Adj + than Y.`
+
+---
+
+#### **Nhóm 7: Chức năng Diễn tả Sự thay đổi / Tác động**
+
+*   `to change + N`: thay đổi cái gì.
+*   `to slow down + N`: làm chậm cái gì.
+*   `to increase + N`: tăng cái gì.
+*   `to reduce + N`: giảm cái gì.
+*   `to limit + N`: giới hạn cái gì.
+*   `to hamper + N`: cản trở cái gì.
+*   `to boost + N`: thúc đẩy cái gì.
+
+---
+
+#### **Nhóm 8: Chức năng Diễn tả Trạng thái / Kết quả**
+
+*   `to keep + N + Adj`: giữ cho cái gì đó ở trạng thái nào.
+*   `to appear to be + Adj`: có vẻ là.
+*   `to be interlinked`: liên kết với nhau.
+
+---
+
+#### **Nhóm 9: Chức năng Diễn tả Hành động nhận thức / Học hỏi**
+
+*   `to learn about + N`: tìm hiểu về.
+*   `to find out about + N`: tìm hiểu về.
+*   `to understand + N`: hiểu cái gì.
+*   `to know + N`: biết cái gì.
+
+---
+
+#### **Nhóm 10: Chức năng Diễn tả Sự cho phép / Bắt buộc**
+
+*   `to let + N + V`: cho phép ai làm gì.
+*   `to have to + V`: phải làm gì.
+
+---
+
+#### **Nhóm 11: Cấu trúc So sánh tăng tiến**
+
+*   `The more... the more...`: càng... càng...
+    *   *Ví dụ:* "**The more** we read, **therefore**, **the more** we **exercise our memories**."
+
+---
+
 ### **Phần 2: Phân Cấp Ưu Tiên Đọc Hiểu**
 
 **Nguyên tắc chung:** Cấu trúc nào giúp **thay đổi hướng** hoặc **đúc kết vấn đề** thì quan trọng hơn cấu trúc chỉ **thêm thắt thông tin**.
@@ -53,6 +102,12 @@
 *   **Ưu tiên 2: ĐỌC CHÚ Ý**
     *   **Nhóm 4 (Lời khuyên / Giải pháp):** Vì đây thường là mục đích, phần đúc kết giá trị của bài viết.
     *   **Nhóm 5 (Định nghĩa):** Vì nếu tác giả đã phải định nghĩa, thì đó là khái niệm trung tâm.
+    *   **Nhóm 7 (Diễn tả Sự thay đổi / Tác động):** Các động từ này thường là trọng tâm của hành động.
+    *   **Nhóm 8 (Diễn tả Trạng thái / Kết quả):** Các cấu trúc này mô tả kết quả hoặc trạng thái quan trọng.
 
 *   **Ưu tiên 3: ĐỌC LƯỚT**
     *   **Nhóm 1 (Liệt kê & Bổ sung):** Vì chúng thường chỉ minh họa hoặc thêm thắt cho một ý chính đã được nêu ra trước đó.
+    *   **Nhóm 6 (So sánh & Đối chiếu):** Thường dùng để làm rõ hơn một ý, không phải ý chính.
+    *   **Nhóm 9 (Diễn tả Hành động nhận thức / Học hỏi):** Các động từ này thường là chi tiết của quá trình, không phải luận điểm chính.
+    *   **Nhóm 10 (Diễn tả Sự cho phép / Bắt buộc):** Thường là các chi tiết phụ trong câu.
+    *   **Nhóm 11 (Cấu trúc So sánh tăng tiến):** Mặc dù quan trọng, nhưng thường là cách diễn đạt một ý đã được nêu, không phải ý chính mới.
