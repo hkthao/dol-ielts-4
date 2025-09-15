@@ -30,8 +30,8 @@
 
 #### **Nhóm 4: Chức năng Đưa ra Lời khuyên / Mục đích**
 
-*   **Đưa ra Lời khuyên / Giải pháp:** `You should...`, `It is advisable to...`, `One solution is to...`, `Instead of doing A, do B`, `The best way to... is to...`
-*   **Chỉ Mục đích:** `to / in order to / so as to + V`, `so that + S + V`
+*   **Đưa ra Lời khuyên / Giải pháp:** `You should...`, `It is advisable to...`, `One solution is to...`, `Instead of doing A, do B`, `The best way to... is to...`, `It is better to...`, `Do not hesitate to...`, `remember to...`
+*   **Chỉ Mục đích:** `to / in order to / so as to + V`, `so that + S + V`, `to set time for...`
 
 ---
 
@@ -57,6 +57,7 @@
 *   `to limit + N`: giới hạn cái gì.
 *   `to hamper + N`: cản trở cái gì.
 *   `to boost + N`: thúc đẩy cái gì.
+*   `to accelerate + N`: thúc đẩy, tăng tốc cái gì.
 
 ---
 
@@ -65,6 +66,9 @@
 *   `to keep + N + Adj`: giữ cho cái gì đó ở trạng thái nào.
 *   `to appear to be + Adj`: có vẻ là.
 *   `to be interlinked`: liên kết với nhau.
+*   `to make it + adj + to V`: khiến cho việc gì đó trở nên như thế nào.
+*   `to be useful to + V`: hữu ích để làm gì.
+*   `to make + N + adj`: làm cho cái gì trở nên...
 
 ---
 
@@ -74,6 +78,10 @@
 *   `to find out about + N`: tìm hiểu về.
 *   `to understand + N`: hiểu cái gì.
 *   `to know + N`: biết cái gì.
+*   `to do research on + N`: nghiên cứu về cái gì.
+*   `to overlook + N`: xem nhẹ, bỏ qua cái gì.
+*   `to figure out + N`: hiểu ra cái gì.
+*   `to get used to + N`: quen với cái gì.
 
 ---
 
@@ -81,6 +89,8 @@
 
 *   `to let + N + V`: cho phép ai làm gì.
 *   `to have to + V`: phải làm gì.
+*   `to give an opportunity to + V`: cho cơ hội làm gì.
+*   `to be given room to + V`: được cho không gian/cơ hội để làm gì.
 
 ---
 
