@@ -23,8 +23,8 @@
 
 #### **Nhóm 3: Chức năng Nguyên nhân - Kết quả**
 
-*   **Diễn tả Nguyên nhân:** `Because`, `Since`, `As`, `Due to`, `Because of`, `This is because...`
-*   **Diễn tả Kết quả:** `Therefore`, `So`, `As a result`, `Consequently`, `...which leads to...`, Mệnh đề V-ing chỉ kết quả.
+*   **Diễn tả Nguyên nhân:** `Because`, `Since`, `As`, `Due to`, `Because of`, `This is because...`, `to cause sth to do sth`, `a factor in + N`
+*   **Diễn tả Kết quả:** `Therefore`, `So`, `As a result`, `Consequently`, `to lead to + N`, `...which leads to...`, Mệnh đề V-ing chỉ kết quả.
 
 ---
 
@@ -82,12 +82,14 @@
 *   `to overlook + N`: xem nhẹ, bỏ qua cái gì.
 *   `to figure out + N`: hiểu ra cái gì.
 *   `to get used to + N`: quen với cái gì.
+*   `to regard sth as + N/Adj`: coi cái gì như là...
 
 ---
 
 #### **Nhóm 10: Chức năng Diễn tả Sự cho phép / Bắt buộc**
 
 *   `to let + N + V`: cho phép ai làm gì.
+*   `to allow + N + to V`: cho phép ai làm gì.
 *   `to have to + V`: phải làm gì.
 *   `to give an opportunity to + V`: cho cơ hội làm gì.
 *   `to be given room to + V`: được cho không gian/cơ hội để làm gì.
